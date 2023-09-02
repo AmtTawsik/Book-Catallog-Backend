@@ -9,7 +9,7 @@ const createToken = (
     expiresIn: expireTime,
   });
 };
-// VArify JWT
+
 const verifyToken = (token: string, secret: Secret): JwtPayload => {
   return jwt.verify(token, secret) as JwtPayload;
 };
