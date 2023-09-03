@@ -15,7 +15,7 @@
     "postinstall": "prisma generate",
     "build": "tsc"
   },
-  "author": "Kamrul Saad",
+  "author": "Abdullah Al Mubin",
   "license": "ISC",
   "lint-staged": {
     "src/**/*.ts": "yarn lint-prettier"
