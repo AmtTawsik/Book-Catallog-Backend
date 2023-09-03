@@ -7,6 +7,7 @@
 #### User
 
 - https://book-catalogue-backend-amt.vercel.app/api/v1/auth/signup (POST)
+- https://book-catalogue-backend-amt.vercel.app/api/v1/auth/signin (POST)
 - https://book-catalogue-backend-amt.vercel.app/api/v1/users (GET)
 - https://book-catalogue-backend-amt.vercel.app/api/v1/users/f68249fb-e59f-476c-adbe-96c0ff4d6a2c (GET)
 - https://book-catalogue-backend-amt.vercel.app/api/v1/users/f68249fb-e59f-476c-adbe-96c0ff4d6a2c (PATCH)
